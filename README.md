@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm James Fu 👋
 
-<!--
-**jamesbaxter0424/jamesbaxter0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **second-year Master's student in Computational Design at Carnegie Mellon University**, with a background in architecture and a strong interest in developing intelligent tools at the intersection of AI, software engineering, and design.
 
-Here are some ideas to get you started:
+My work focuses on **Applied AI, LLM Agents, and Design Tool Development**, particularly exploring how AI can automate complex workflows, augment human creativity, and make computational tools more accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building **AI-powered applications, agentic workflows, and interactive web tools** that translate emerging technologies into practical solutions for real-world challenges.
+
+**Areas of Interest:** Applied AI · LLM Agents · MCP · Software Development · Computer Vision · Computational Design
+
+---
+
+### Connect with Me
+
+- 📄 **[CV](./assets/James_Fu_CV.pdf)**
+- 💼 **[LinkedIn](YOUR_LINKEDIN_URL)**
+- 🌐 **[Portfolio](https://jamesbaxter0424.github.io/Personal-Portfolio-Website/)**
