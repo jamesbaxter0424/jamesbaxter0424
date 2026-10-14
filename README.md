@@ -1,4 +1,4 @@
-# 👋 Hi, I'm James (Cheng-Wen) Fu
+# 👋 Hi, I'm Cheng-Wen (James) Fu
 
 **Applied AI Developer | Computational Designer**
 
@@ -18,6 +18,6 @@ I'm passionate about building AI-powered applications, agentic workflows, and in
 
 ### Connect with Me
 
-- **[CV](./assets/James_Fu_CV.pdf)**
-- **[LinkedIn](YOUR_LINKEDIN_URL)**
+- **[CV](https://jamesbaxter0424.github.io/Personal-Portfolio-Website/assets/img/About/Resume_James%20Fu.pdf)**
+- **[LinkedIn](https://www.linkedin.com/in/chengwenfu/)**
 - **[Portfolio](https://jamesbaxter0424.github.io/Personal-Portfolio-Website/)**
